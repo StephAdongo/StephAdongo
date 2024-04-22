@@ -21,10 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/hourglass_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hourglass_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/@stephanieadongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@stephanieadongo" height="30" width="40" /></a>
-<a href="https://kaggle.com/@adongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@adongo" height="30" width="40" /></a>
 <a href="https://instagram.com/@itsadongo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itsadongo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_steph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_steph" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_steph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_steph" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephadongo&show_icons=true&locale=en" alt="stephadongo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephadongo&" alt="stephadongo" /></p>
-

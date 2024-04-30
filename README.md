@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Computer science at Kabarak University**
 
-- 👨‍💻 All of my projects are available at [@StephAdongo on github](@StephAdongo on github)
+- 👨‍💻 All of my projects are available at [@StephAdongo on github]
 
 - 💬 Ask me about **js,html,css,react.js,node.js**
 

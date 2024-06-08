@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hourglass_1" target="blank"><img src="https://img.shields.io/twitter/follow/hourglass_1?logo=twitter&style=for-the-badge" alt="hourglass_1" /></a> </p>
 
-- 🔭 I’m currently working on **advanced front-end**
+- 🔭 I’m currently working on **front-end**
 
 - 🌱 I’m currently learning **Computer science at Kabarak University**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **js,html,css,react.js,node.js**
 
-- 📫 How to reach me **adongo021@gmail.com https://www.linkedin.com/in/stephanie-adongo-40762a279/**
+- 📫 How to reach me **https://www.linkedin.com/in/stephanie-adongo-40762a279/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
